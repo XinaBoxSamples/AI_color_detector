@@ -19,3 +19,5 @@
 * Instructions are displayed on OD01
 * Train CS11 against each color by showing real color to SL06, you may end the training at any time.
 * After training, test with different shades of any color, the OD01 will display the approximate color name.
+
+This code is based on AI kNN classification algorithm, whith k being 1. 
